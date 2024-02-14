@@ -6,7 +6,7 @@ const App = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.heading}>
-        CodePush: Debug change
+        CodePush: testing production key in ipa for code push with Production
       </Text>
       <Image
         style={styles.image}
@@ -14,7 +14,7 @@ const App = () => {
         source={{uri: 'https://loremflickr.com/g/520/540/paris'}}
       />
       <View style={styles.button}>
-        <Text style={styles.buttonText}>BEFORE CODE PUSH-----</Text>
+        <Text style={styles.buttonText}>BEFORE CODE PUSH</Text>
       </View>
     </View>
   );
