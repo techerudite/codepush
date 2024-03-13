@@ -1,4 +1,3 @@
-## CodePush Demo
 ## Getting started
 
 # Project set-up
@@ -40,7 +39,8 @@ You've successfully run and modified your React Native App. :partying_face:
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding and node version should be **Equal or Greater than 18**
 
 ## How to push Updates on codepush (Appcenter) ?
-    Once you are done with your changes run below command to relase your update on codepush based on your environment (staging/Production)
+Once you are done with your changes run below command to relase your update on codepush based on your environment (staging/Production)
+
 ### For Android
 ```bash
 appcenter codepush release-react -a xxxxx/AwesomeProject -d Production
