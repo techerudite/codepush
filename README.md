@@ -1,5 +1,5 @@
-# CodePush Demo
-# Getting started
+## CodePush Demo
+## Getting started
 
 # Project set-up
 ## Step 1: Clone Project
